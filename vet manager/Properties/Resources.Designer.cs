@@ -63,6 +63,236 @@ namespace vet_manager.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2d07a3be_a6bf_4ca3_ab88_4b2646a2e15b {
+            get {
+                object obj = ResourceManager.GetObject("2d07a3be-a6bf-4ca3-ab88-4b2646a2e15b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _2d07a3be_a6bf_4ca3_ab88_4b2646a2e15b1 {
+            get {
+                object obj = ResourceManager.GetObject("2d07a3be-a6bf-4ca3-ab88-4b2646a2e15b1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _413aa74c_09a6_4964_9e3b_f84b3a9e22c8 {
+            get {
+                object obj = ResourceManager.GetObject("413aa74c-09a6-4964-9e3b-f84b3a9e22c8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _556b8bb0_bbd9_47a2_9b8e_23484c03c11d {
+            get {
+                object obj = ResourceManager.GetObject("556b8bb0-bbd9-47a2-9b8e-23484c03c11d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _556b8bb0_bbd9_47a2_9b8e_23484c03c11d1 {
+            get {
+                object obj = ResourceManager.GetObject("556b8bb0-bbd9-47a2-9b8e-23484c03c11d1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _56ff833f_9b5f_453b_a367_908ff541b940 {
+            get {
+                object obj = ResourceManager.GetObject("56ff833f-9b5f-453b-a367-908ff541b940", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _5f908015_623e_4d58_a13e_66c0c4dc555d {
+            get {
+                object obj = ResourceManager.GetObject("5f908015-623e-4d58-a13e-66c0c4dc555d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _5f908015_623e_4d58_a13e_66c0c4dc555d1 {
+            get {
+                object obj = ResourceManager.GetObject("5f908015-623e-4d58-a13e-66c0c4dc555d1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _77bdbc3c_bbfc_4dde_9279_a6a9c0ede909 {
+            get {
+                object obj = ResourceManager.GetObject("77bdbc3c-bbfc-4dde-9279-a6a9c0ede909", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _7cc9da8c_008b_4978_b5ee_5ec8505fcb38 {
+            get {
+                object obj = ResourceManager.GetObject("7cc9da8c-008b-4978-b5ee-5ec8505fcb38", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _90d4a076_8d58_4685_bc9a_378b233e4010 {
+            get {
+                object obj = ResourceManager.GetObject("90d4a076-8d58-4685-bc9a-378b233e4010", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _90d4a076_8d58_4685_bc9a_378b233e40101 {
+            get {
+                object obj = ResourceManager.GetObject("90d4a076-8d58-4685-bc9a-378b233e40101", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap agregar_empleado {
+            get {
+                object obj = ResourceManager.GetObject("agregar empleado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap c0564ada_9ba6_44e6_a52e_3a27ce25ff0e {
+            get {
+                object obj = ResourceManager.GetObject("c0564ada-9ba6-44e6-a52e-3a27ce25ff0e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Diseño_sin_título__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Diseño sin título (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Diseño_sin_título__3_ {
+            get {
+                object obj = ResourceManager.GetObject("Diseño sin título (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Diseño_sin_título__3_1 {
+            get {
+                object obj = ResourceManager.GetObject("Diseño sin título (3)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Diseño_sin_título__4_ {
+            get {
+                object obj = ResourceManager.GetObject("Diseño sin título (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Diseño_sin_título__5_ {
+            get {
+                object obj = ResourceManager.GetObject("Diseño sin título (5)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Diseño_sin_título__7_ {
+            get {
+                object obj = ResourceManager.GetObject("Diseño sin título (7)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lineas {
+            get {
+                object obj = ResourceManager.GetObject("lineas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lineas1 {
+            get {
+                object obj = ResourceManager.GetObject("lineas1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_casa {
+            get {
+                object obj = ResourceManager.GetObject("logo casa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap LOGO_VET {
             get {
                 object obj = ResourceManager.GetObject("LOGO VET", resourceCulture);

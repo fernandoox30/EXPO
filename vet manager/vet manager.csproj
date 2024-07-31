@@ -49,6 +49,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vista\AgregarUsuario\frmAgregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\AgregarUsuario\frmAgregarUsuario.Designer.cs">
+      <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\Citas\FrmCitas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Vista\AgregarUsuario\frmAgregarUsuario.resx">
+      <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Vista\Citas\FrmCitas.resx">
       <DependentUpon>FrmCitas.cs</DependentUpon>
     </EmbeddedResource>
@@ -97,6 +106,21 @@
     <Folder Include="Controlador\" />
     <Folder Include="Modelo\DAO\" />
     <Folder Include="Modelo\DTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diseño sin título %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\413aa74c-09a6-4964-9e3b-f84b3a9e22c8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c0564ada-9ba6-44e6-a52e-3a27ce25ff0e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diseño sin título %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7cc9da8c-008b-4978-b5ee-5ec8505fcb38.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
