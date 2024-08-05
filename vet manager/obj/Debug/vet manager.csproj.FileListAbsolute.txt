@@ -30,3 +30,11 @@ C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.csproj.Co
 C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.exe
 C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.pdb
 C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet_manager.Vista.AgregarUsuario.frmAgregarUsuario.resources
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet manager.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet_manager.Vista.Agregar_ClienteMascota.FrmClienteRegister.resources
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet_manager.Vista.AgregarUsuario.frmAgregarUsuario.resources
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet_manager.Vista.Citas.FrmCitas.resources
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet_manager.Vista.Login.FrmLogin.resources
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet manager.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet manager.exe
+C:\Users\User\Documents\GitHub\EXPO\vet manager\obj\Debug\vet manager.pdb

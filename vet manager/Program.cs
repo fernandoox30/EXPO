@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using vet_manager.Vista.AgregarUsuario;
 using vet_manager.Vista.Login;
+using vet_manager.Vista.Agregar_ClienteMascota;
 
 namespace vet_manager
 {
@@ -18,7 +19,7 @@ namespace vet_manager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAgregarUsuario());
+            Application.Run(new FrmClienteRegister());
         }
     }
 }
