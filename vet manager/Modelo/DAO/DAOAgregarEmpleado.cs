@@ -38,14 +38,14 @@ namespace vet_manager.Modelo.DAO
                 int rep = cmd.ExecuteNonQuery();
                 if (rep == 1) 
                 {
-                string query = "INSERT INTO "
+                
                 }
 
                 return cmd.ExecuteNonQuery();
             }
             catch (Exception)
             {
-                RollBack();
+                
                 return 0;
             }
         }
