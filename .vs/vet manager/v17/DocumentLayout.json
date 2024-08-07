@@ -3,56 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\modelo\\dao\\daoagregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dao\\daoagregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\controlador\\agregarusuario\\controladoragregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\controlador\\agregarusuario\\controladoragregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\controlador\\agregarusuario\\controladoragregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\vista\\ingresarempleado\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\ingresarempleado\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\modelo\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\vista\\ingresarempleado\\frmregistrosempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\ingresarempleado\\frmregistrosempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\modelo\\dto\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dto\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\modelo\\dto\\dtoagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dto\\dtoagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\controlador\\validar\\incriptar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\controlador\\validar\\incriptar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\controlador\\validar\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\controlador\\validar\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\controlador\\login\\controladorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\controlador\\login\\controladorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\modelo\\dao\\daologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dao\\daologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\modelo\\dto\\dtoagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dto\\dtoagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\modelo\\dto\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dto\\dtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\controlador\\validar\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\controlador\\validar\\acesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\controlador\\login\\controladorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\controlador\\login\\controladorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\modelo\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dbconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\vista\\ingresarempleado\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\ingresarempleado\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\i5 11400f\\source\\repos\\expo\\vet manager\\modelo\\dao\\daoagregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\modelo\\dao\\daoagregarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +50,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbConexion.cs",
+              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\dbConexion.cs",
+              "RelativeDocumentMoniker": "vet manager\\Modelo\\dbConexion.cs",
+              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\dbConexion.cs",
+              "RelativeToolTip": "vet manager\\Modelo\\dbConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:34:11.312Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -74,15 +75,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Incriptar.cs",
+              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\validar\\Incriptar.cs",
+              "RelativeDocumentMoniker": "vet manager\\Controlador\\validar\\Incriptar.cs",
+              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\validar\\Incriptar.cs",
+              "RelativeToolTip": "vet manager\\Controlador\\validar\\Incriptar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:17:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "acesso.cs",
               "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\validar\\acesso.cs",
               "RelativeDocumentMoniker": "vet manager\\Controlador\\validar\\acesso.cs",
               "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\validar\\acesso.cs",
               "RelativeToolTip": "vet manager\\Controlador\\validar\\acesso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T04:57:44.62Z"
+              "WhenOpened": "2024-08-07T22:17:12.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegistrosEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\IngresarEmpleado\\frmRegistrosEmpleado.cs",
+              "RelativeDocumentMoniker": "vet manager\\Vista\\IngresarEmpleado\\frmRegistrosEmpleado.cs",
+              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\IngresarEmpleado\\frmRegistrosEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vet manager\\Vista\\IngresarEmpleado\\frmRegistrosEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:42:56.195Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -92,21 +119,35 @@
               "RelativeDocumentMoniker": "vet manager\\Modelo\\DTO\\DTOAgregarUsuario.cs",
               "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DTO\\DTOAgregarUsuario.cs",
               "RelativeToolTip": "vet manager\\Modelo\\DTO\\DTOAgregarUsuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABTAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T01:40:05.206Z"
+              "WhenOpened": "2024-08-07T21:14:24.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DAOAgregarEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
-              "RelativeDocumentMoniker": "vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
-              "RelativeToolTip": "vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAARAAAA",
+              "Title": "ControladorAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
+              "RelativeToolTip": "vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswB4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T01:30:02Z",
+              "WhenOpened": "2024-08-07T21:14:19.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTOLogin.cs",
+              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DTO\\DTOLogin.cs",
+              "RelativeDocumentMoniker": "vet manager\\Modelo\\DTO\\DTOLogin.cs",
+              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DTO\\DTOLogin.cs",
+              "RelativeToolTip": "vet manager\\Modelo\\DTO\\DTOLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:14:21.932Z",
               "EditorCaption": ""
             },
             {
@@ -117,115 +158,36 @@
               "RelativeDocumentMoniker": "vet manager\\Controlador\\Login\\ControladorLogin.cs",
               "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\Login\\ControladorLogin.cs",
               "RelativeToolTip": "vet manager\\Controlador\\Login\\ControladorLogin.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAA4wF8AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T19:54:31.023Z"
+              "WhenOpened": "2024-08-07T21:14:18.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ControladorAgregarUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
-              "RelativeDocumentMoniker": "vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
-              "RelativeToolTip": "vet manager\\Controlador\\AgregarUsuario\\ControladorAgregarUsuario.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAqwDUAAAAYAAAA",
+              "DocumentIndex": 9,
+              "Title": "DAOAgregarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
+              "RelativeDocumentMoniker": "vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
+              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
+              "RelativeToolTip": "vet manager\\Modelo\\DAO\\DAOAgregarEmpleado.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T02:27:44.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmAgregarUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs",
-              "RelativeDocumentMoniker": "vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T20:15:39.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmAgregarUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs",
-              "RelativeDocumentMoniker": "vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs",
-              "RelativeToolTip": "vet manager\\Vista\\IngresarEmpleado\\frmAgregarUsuario.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAnwCUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T21:52:07.171Z"
+              "WhenOpened": "2024-08-07T21:14:02.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\Login\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "vet manager\\Vista\\Login\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\Login\\FrmLogin.cs",
-              "RelativeToolTip": "vet manager\\Vista\\Login\\FrmLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T17:45:47.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Program.cs",
-              "RelativeDocumentMoniker": "vet manager\\Program.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Program.cs",
-              "RelativeToolTip": "vet manager\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T21:02:24.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DAOLogin.cs",
               "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DAO\\DAOLogin.cs",
               "RelativeDocumentMoniker": "vet manager\\Modelo\\DAO\\DAOLogin.cs",
               "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DAO\\DAOLogin.cs",
               "RelativeToolTip": "vet manager\\Modelo\\DAO\\DAOLogin.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwA4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:43:06.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DTOLogin.cs",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DTO\\DTOLogin.cs",
-              "RelativeDocumentMoniker": "vet manager\\Modelo\\DTO\\DTOLogin.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\DTO\\DTOLogin.cs",
-              "RelativeToolTip": "vet manager\\Modelo\\DTO\\DTOLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:32:29.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbConexion.cs",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\dbConexion.cs",
-              "RelativeDocumentMoniker": "vet manager\\Modelo\\dbConexion.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Modelo\\dbConexion.cs",
-              "RelativeToolTip": "vet manager\\Modelo\\dbConexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:01:58.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\Login\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "vet manager\\Vista\\Login\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\I5 11400F\\source\\repos\\EXPO\\vet manager\\Vista\\Login\\FrmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "vet manager\\Vista\\Login\\FrmLogin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T21:09:09.738Z"
+              "WhenOpened": "2024-08-04T06:43:06.944Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using vet_manager.Vista.Citas;
 using vet_manager.Vista.IngregarEmpleado;
+using vet_manager.Vista.IngresarEmpleado;
 using vet_manager.Vista.Login;
 
 

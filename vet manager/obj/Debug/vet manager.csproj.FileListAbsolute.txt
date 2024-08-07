@@ -10,3 +10,4 @@ C:\Users\I5 11400F\source\repos\EXPO\vet manager\bin\Debug\vet manager.pdb
 C:\Users\I5 11400F\source\repos\EXPO\vet manager\obj\Debug\vet manager.exe
 C:\Users\I5 11400F\source\repos\EXPO\vet manager\obj\Debug\vet manager.pdb
 C:\Users\I5 11400F\source\repos\EXPO\vet manager\obj\Debug\vet_manager.Vista.IngregarEmpleado.frmAgregarUsuario.resources
+C:\Users\I5 11400F\source\repos\EXPO\vet manager\obj\Debug\vet_manager.Vista.IngresarEmpleado.frmRegistrosEmpleado.resources

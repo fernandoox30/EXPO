@@ -111,5 +111,10 @@ namespace vet_manager.Vista.IngregarEmpleado
         {
 
         }
+
+        private void sidebar_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

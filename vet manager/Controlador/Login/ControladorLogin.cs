@@ -44,13 +44,14 @@ namespace vet_manager.Controlador.Login
             try
             {
                 DAOLogin DAODATA = new DAOLogin();
+                
 
                 DAODATA.Usuario1 = ObjLogin.txtUsuario.Text;
                 DAODATA.Contraseña1 = ObjLogin.txtContraseña.Text;
 
-                int respuesta = DAODATA.Login();
+                bool respuesta = DAODATA.Login();
                     
-                if (respuesta == 1)
+                if (respuesta == true)
                 {
                     frmAgregarUsuario AgregarEmpleado = new frmAgregarUsuario();
                     AgregarEmpleado.Show();
@@ -76,9 +77,10 @@ namespace vet_manager.Controlador.Login
 
         private void IngresarUsuario(object sender, EventArgs e)
         {
-            if(ObjLogin.txtUsuario.Text.Trim().Equals(""))
+            if(ObjLogin.txtUsuario.Text.Trim().Equals("Usuario"))
             {
-                ObjLogin.txtUsuario.Text = "Usuario";
+                ObjLogin.txtUsuario.Clear();
+                ObjLogin.txtUsuario.Visible = true;
             }
         }
 

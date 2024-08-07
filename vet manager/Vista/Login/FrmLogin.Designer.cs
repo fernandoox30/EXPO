@@ -253,8 +253,6 @@
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label lblContraseña;
-        private System.Windows.Forms.Label lblUsuario;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.PictureBox pictureBox1;
@@ -264,5 +262,7 @@
         public System.Windows.Forms.Button btnCancelar;
         public System.Windows.Forms.Button btnIngresar;
         private System.Windows.Forms.PictureBox pictureBox2;
+        public System.Windows.Forms.Label lblContraseña;
+        public System.Windows.Forms.Label lblUsuario;
     }
 }

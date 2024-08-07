@@ -23,16 +23,16 @@ namespace vet_manager.Modelo.DAO
             try
             {
                 Command.Connection = getConnection();
-                string query = "SELECT * FROM FrmLogin WHERE Usuario = @NombreUsuario AND Contraseña = @Contra";
+                string query = "SELECT Usuario, Contraseña, Nombre FROM Empleado WHERE Usuario = @Usuario AND Contraseña = @Contraseña";
                 SqlCommand cmd = new SqlCommand(query, Command.Connection);
-                cmd.Parameters.AddWithValue("Usuario", Usuario1);
-                cmd.Parameters.AddWithValue("Contraseña", Contraseña1);
+                cmd.Parameters.AddWithValue("@Usuario", Usuario1);
+                cmd.Parameters.AddWithValue("@Contraseña", Contraseña1);
                 SqlDataReader rd = cmd.ExecuteReader();
-                while (rd.Read())
+                if (rd.Read())
                 {
-                    acesso.Usuario = rd.GetString(0);
-                    acesso.Contraseña = rd.GetString(1);
-                    acesso.Nombre = rd.GetString(2);
+                    acesso.Usuario = rd.GetString(rd.GetOrdinal("Usuario"));
+                    acesso.Contraseña = rd.GetString(rd.GetOrdinal("Contraseña"));
+                    acesso.Nombre = rd.GetString(rd.GetOrdinal("Nombre"));
                 }
                 return rd.HasRows;
             }
@@ -40,15 +40,16 @@ namespace vet_manager.Modelo.DAO
             {
                 MessageBox.Show(sqlex.Message);
                 return false;
-
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
                 return false;
             }
-
-            finally { getConnection().Close(); }
+            finally
+            {
+                Command.Connection.Close();
+            }
         }
     }
 }
