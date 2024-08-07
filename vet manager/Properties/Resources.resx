@@ -118,76 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lineas" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lineas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="LOGO VET" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOGO VET.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="413aa74c-09a6-4964-9e3b-f84b3a9e22c8" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\413aa74c-09a6-4964-9e3b-f84b3a9e22c8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="556b8bb0-bbd9-47a2-9b8e-23484c03c11d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\556b8bb0-bbd9-47a2-9b8e-23484c03c11d1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lineas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lineas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo casa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo casa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lineas negra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lineas negra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LOGO VET" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LOGO VET.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="lineas1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lineas1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Diseño sin título (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Diseño sin título (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="agregar empleado" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\agregar empleado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="56ff833f-9b5f-453b-a367-908ff541b940" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\56ff833f-9b5f-453b-a367-908ff541b940.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2d07a3be-a6bf-4ca3-ab88-4b2646a2e15b1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2d07a3be-a6bf-4ca3-ab88-4b2646a2e15b1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5f908015-623e-4d58-a13e-66c0c4dc555d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5f908015-623e-4d58-a13e-66c0c4dc555d1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="c0564ada-9ba6-44e6-a52e-3a27ce25ff0e" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c0564ada-9ba6-44e6-a52e-3a27ce25ff0e.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="90d4a076-8d58-4685-bc9a-378b233e4010" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\90d4a076-8d58-4685-bc9a-378b233e4010.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="90d4a076-8d58-4685-bc9a-378b233e40101" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\90d4a076-8d58-4685-bc9a-378b233e40101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="556b8bb0-bbd9-47a2-9b8e-23484c03c11d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\556b8bb0-bbd9-47a2-9b8e-23484c03c11d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Diseño sin título (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Diseño sin título (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="77bdbc3c-bbfc-4dde-9279-a6a9c0ede909" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\77bdbc3c-bbfc-4dde-9279-a6a9c0ede909.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Diseño sin título (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Diseño sin título (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5f908015-623e-4d58-a13e-66c0c4dc555d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5f908015-623e-4d58-a13e-66c0c4dc555d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="2d07a3be-a6bf-4ca3-ab88-4b2646a2e15b" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2d07a3be-a6bf-4ca3-ab88-4b2646a2e15b.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Diseño sin título (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Diseño sin título (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Diseño sin título (3)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Diseño sin título (3)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Diseño sin título (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Diseño sin título (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="7cc9da8c-008b-4978-b5ee-5ec8505fcb38" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\7cc9da8c-008b-4978-b5ee-5ec8505fcb38.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ce9381cf-c557-4371-9e67-64f3e0171d83" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ce9381cf-c557-4371-9e67-64f3e0171d83.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

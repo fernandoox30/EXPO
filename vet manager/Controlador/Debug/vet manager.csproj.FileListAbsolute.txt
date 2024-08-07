@@ -1,0 +1,31 @@
+C:\Users\Estudiante\source\repos\vet manager\vet manager\bin\Debug\vet manager.exe.config
+C:\Users\Estudiante\source\repos\vet manager\vet manager\bin\Debug\vet manager.exe
+C:\Users\Estudiante\source\repos\vet manager\vet manager\bin\Debug\vet manager.pdb
+C:\Users\Estudiante\source\repos\vet manager\vet manager\obj\Debug\vet manager.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\vet manager\vet manager\obj\Debug\vet_manager.Form1.resources
+C:\Users\Estudiante\source\repos\vet manager\vet manager\obj\Debug\vet_manager.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\vet manager\vet manager\obj\Debug\vet manager.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\vet manager\vet manager\obj\Debug\vet manager.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\vet manager\vet manager\obj\Debug\vet manager.exe
+C:\Users\Estudiante\source\repos\vet manager\vet manager\obj\Debug\vet manager.pdb
+D:\vet manager\vet manager\bin\Debug\vet manager.exe.config
+D:\vet manager\vet manager\bin\Debug\vet manager.exe
+D:\vet manager\vet manager\bin\Debug\vet manager.pdb
+D:\vet manager\vet manager\obj\Debug\vet manager.csproj.AssemblyReference.cache
+D:\vet manager\vet manager\obj\Debug\vet_manager.Form1.resources
+D:\vet manager\vet manager\obj\Debug\vet_manager.Properties.Resources.resources
+D:\vet manager\vet manager\obj\Debug\vet manager.csproj.GenerateResource.cache
+D:\vet manager\vet manager\obj\Debug\vet manager.csproj.CoreCompileInputs.cache
+D:\vet manager\vet manager\obj\Debug\vet manager.exe
+D:\vet manager\vet manager\obj\Debug\vet manager.pdb
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\bin\Debug\vet manager.exe.config
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\bin\Debug\vet manager.exe
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\bin\Debug\vet manager.pdb
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.csproj.AssemblyReference.cache
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet_manager.Properties.Resources.resources
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet_manager.Vista.Citas.FrmCitas.resources
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet_manager.Vista.Login.FrmLogin.resources
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.csproj.GenerateResource.cache
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.csproj.CoreCompileInputs.cache
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.exe
+C:\Users\I5 11400F\Source\Repos\EXPO\vet manager\obj\Debug\vet manager.pdb

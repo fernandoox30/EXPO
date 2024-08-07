@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using vet_manager.Controlador.Login;
 
 namespace vet_manager.Vista.Login
 {
@@ -15,6 +16,7 @@ namespace vet_manager.Vista.Login
         public FrmLogin()
         {
             InitializeComponent();
+            ControladorLogin control = new ControladorLogin(this);
         }
 
         private void panel2_Paint(object sender, PaintEventArgs e)
@@ -28,6 +30,16 @@ namespace vet_manager.Vista.Login
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnIngresar_Click(object sender, EventArgs e)
         {
 
         }

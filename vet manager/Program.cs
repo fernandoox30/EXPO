@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using vet_manager.Vista.AgregarUsuario;
+using vet_manager.Vista.Citas;
+using vet_manager.Vista.IngregarEmpleado;
 using vet_manager.Vista.Login;
+
+
 
 namespace vet_manager
 {
@@ -18,7 +22,7 @@ namespace vet_manager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAgregarUsuario());
+            Application.Run(new FrmLogin());
         }
     }
 }
