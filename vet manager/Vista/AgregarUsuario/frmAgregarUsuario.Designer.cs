@@ -187,7 +187,6 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::vet_manager.Properties.Resources._7cc9da8c_008b_4978_b5ee_5ec8505fcb38;
             this.pictureBox2.ImageLocation = "";
             this.pictureBox2.Location = new System.Drawing.Point(53, 106);
             this.pictureBox2.Name = "pictureBox2";
@@ -201,7 +200,6 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Image = global::vet_manager.Properties.Resources.c0564ada_9ba6_44e6_a52e_3a27ce25ff0e;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button2.Location = new System.Drawing.Point(1, 0);
             this.button2.Name = "button2";
@@ -217,7 +215,6 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Image = global::vet_manager.Properties.Resources._413aa74c_09a6_4964_9e3b_f84b3a9e22c8;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button3.Location = new System.Drawing.Point(1, 0);
             this.button3.Name = "button3";
@@ -234,7 +231,6 @@
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.White;
-            this.button4.Image = global::vet_manager.Properties.Resources.c0564ada_9ba6_44e6_a52e_3a27ce25ff0e;
             this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button4.Location = new System.Drawing.Point(1, 0);
             this.button4.Name = "button4";
@@ -250,7 +246,6 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Image = global::vet_manager.Properties.Resources.c0564ada_9ba6_44e6_a52e_3a27ce25ff0e;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button1.Location = new System.Drawing.Point(1, 0);
             this.button1.Name = "button1";
@@ -267,7 +262,6 @@
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.White;
-            this.button5.Image = global::vet_manager.Properties.Resources.c0564ada_9ba6_44e6_a52e_3a27ce25ff0e;
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button5.Location = new System.Drawing.Point(1, 0);
             this.button5.Name = "button5";
@@ -284,7 +278,6 @@
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.Color.White;
-            this.button6.Image = global::vet_manager.Properties.Resources.c0564ada_9ba6_44e6_a52e_3a27ce25ff0e;
             this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button6.Location = new System.Drawing.Point(1, 0);
             this.button6.Name = "button6";
@@ -300,7 +293,6 @@
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button7.ForeColor = System.Drawing.Color.White;
-            this.button7.Image = global::vet_manager.Properties.Resources.c0564ada_9ba6_44e6_a52e_3a27ce25ff0e;
             this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button7.Location = new System.Drawing.Point(1, 0);
             this.button7.Name = "button7";
@@ -322,7 +314,6 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::vet_manager.Properties.Resources._7cc9da8c_008b_4978_b5ee_5ec8505fcb38;
             this.pictureBox3.Location = new System.Drawing.Point(3, 3);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(58, 72);
