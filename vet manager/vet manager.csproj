@@ -47,8 +47,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controlador\AgregarUsuario\ControladorAgregarUsuario.cs" />
+    <Compile Include="Controlador\Login\ControladorLogin.cs" />
+    <Compile Include="Controlador\validar\acesso.cs" />
+    <Compile Include="Controlador\validar\Incriptar.cs" />
+    <Compile Include="Modelo\DAO\DAOAgregarEmpleado.cs" />
+    <Compile Include="Modelo\DAO\DAOLogin.cs" />
+    <Compile Include="Modelo\dbConexion.cs" />
+    <Compile Include="Modelo\DTO\DTOAgregarUsuario.cs" />
+    <Compile Include="Modelo\DTO\DTOLogin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="Vista\Agregar ClienteMascota\FrmClienteRegister.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,12 +70,30 @@
     </Compile>
     <Compile Include="Vista\AgregarUsuario\frmAgregarUsuario.Designer.cs">
       <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+=======
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+>>>>>>> 9d21f75b8b20a30a99b2948d83c83967c4ec8116
     </Compile>
     <Compile Include="Vista\Citas\FrmCitas.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Vista\Citas\FrmCitas.Designer.cs">
       <DependentUpon>FrmCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\IngresarEmpleado\frmAgregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\IngresarEmpleado\frmAgregarUsuario.Designer.cs">
+      <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\IngresarEmpleado\frmRegistrosEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\IngresarEmpleado\frmRegistrosEmpleado.Designer.cs">
+      <DependentUpon>frmRegistrosEmpleado.cs</DependentUpon>
     </Compile>
     <Compile Include="Vista\Login\FrmLogin.cs">
       <SubType>Form</SubType>
@@ -75,8 +103,8 @@
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+<<<<<<< HEAD
     </EmbeddedResource>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -88,9 +116,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\AgregarUsuario\frmAgregarUsuario.resx">
       <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+=======
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+>>>>>>> 9d21f75b8b20a30a99b2948d83c83967c4ec8116
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\Citas\FrmCitas.resx">
       <DependentUpon>FrmCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\IngresarEmpleado\frmAgregarUsuario.resx">
+      <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\IngresarEmpleado\frmRegistrosEmpleado.resx">
+      <DependentUpon>frmRegistrosEmpleado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\Login\FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
@@ -112,9 +149,7 @@
     <None Include="Resources\LOGO VET.jpeg" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controlador\" />
-    <Folder Include="Modelo\DAO\" />
-    <Folder Include="Modelo\DTO\" />
+    <None Include="Resources\ce9381cf-c557-4371-9e67-64f3e0171d83.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Diseño sin título %281%29.png" />
@@ -130,6 +165,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\7cc9da8c-008b-4978-b5ee-5ec8505fcb38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lineas negra.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

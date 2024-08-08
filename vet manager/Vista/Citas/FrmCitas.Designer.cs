@@ -378,6 +378,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "FrmCitas";
             this.Text = "FrmCitas";
+            this.Load += new System.EventHandler(this.FrmCitas_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel6.ResumeLayout(false);

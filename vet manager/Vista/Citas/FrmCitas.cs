@@ -16,5 +16,10 @@ namespace vet_manager.Vista.Citas
         {
             InitializeComponent();
         }
+
+        private void FrmCitas_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
