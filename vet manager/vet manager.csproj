@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controlador\AgregarUsuario\ControladorAgregarUsuario.cs" />
+    <Compile Include="Controlador\AgregarUsuario\ControladorEmpleados.cs" />
     <Compile Include="Controlador\Login\ControladorLogin.cs" />
     <Compile Include="Controlador\validar\acesso.cs" />
     <Compile Include="Controlador\validar\Incriptar.cs" />

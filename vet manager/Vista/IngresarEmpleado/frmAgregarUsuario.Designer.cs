@@ -36,11 +36,13 @@
             this.panel4 = new System.Windows.Forms.Panel();
             this.button1 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label7 = new System.Windows.Forms.Label();
             this.btnInicio = new System.Windows.Forms.Button();
             this.panel6 = new System.Windows.Forms.Panel();
             this.panel8 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.ptbMenuBoton = new System.Windows.Forms.PictureBox();
             this.sidebar = new System.Windows.Forms.FlowLayoutPanel();
             this.pnlContainer = new System.Windows.Forms.Panel();
             this.panel12 = new System.Windows.Forms.Panel();
@@ -59,24 +61,24 @@
             this.panel10 = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.txtApellido = new System.Windows.Forms.TextBox();
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.panel13 = new System.Windows.Forms.Panel();
             this.btnActualizar = new System.Windows.Forms.Button();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.panel15 = new System.Windows.Forms.Panel();
             this.dtpFechaNacimiento = new System.Windows.Forms.DateTimePicker();
             this.label6 = new System.Windows.Forms.Label();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.ptbMenuBoton = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel6.SuspendLayout();
             this.panel8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.ptbMenuBoton)).BeginInit();
             this.sidebar.SuspendLayout();
             this.pnlContainer.SuspendLayout();
             this.panel12.SuspendLayout();
@@ -84,13 +86,11 @@
             this.panel1.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
-            this.panel13.SuspendLayout();
-            this.panel15.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            this.panel13.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ptbMenuBoton)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel15.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel2
@@ -146,6 +146,16 @@
             this.panel3.Size = new System.Drawing.Size(200, 110);
             this.panel3.TabIndex = 0;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(92, 78);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
+            // 
             // label7
             // 
             this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -200,6 +210,18 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Menu";
             // 
+            // ptbMenuBoton
+            // 
+            this.ptbMenuBoton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ptbMenuBoton.Image = global::vet_manager.Properties.Resources.ce9381cf_c557_4371_9e67_64f3e0171d83;
+            this.ptbMenuBoton.Location = new System.Drawing.Point(6, 28);
+            this.ptbMenuBoton.Name = "ptbMenuBoton";
+            this.ptbMenuBoton.Size = new System.Drawing.Size(52, 43);
+            this.ptbMenuBoton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.ptbMenuBoton.TabIndex = 0;
+            this.ptbMenuBoton.TabStop = false;
+            this.ptbMenuBoton.Click += new System.EventHandler(this.ptbMenuBoton_Click);
+            // 
             // sidebar
             // 
             this.sidebar.BackColor = System.Drawing.SystemColors.ActiveBorder;
@@ -212,7 +234,7 @@
             this.sidebar.MaximumSize = new System.Drawing.Size(226, 534);
             this.sidebar.MinimumSize = new System.Drawing.Size(66, 534);
             this.sidebar.Name = "sidebar";
-            this.sidebar.Size = new System.Drawing.Size(226, 534);
+            this.sidebar.Size = new System.Drawing.Size(66, 534);
             this.sidebar.TabIndex = 4;
             this.sidebar.Paint += new System.Windows.Forms.PaintEventHandler(this.sidebar_Paint);
             // 
@@ -311,9 +333,9 @@
             this.panel9.Controls.Add(this.txtUsuario);
             this.panel9.Controls.Add(this.txtContraseña);
             this.panel9.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel9.Location = new System.Drawing.Point(226, 95);
+            this.panel9.Location = new System.Drawing.Point(66, 95);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(1019, 100);
+            this.panel9.Size = new System.Drawing.Size(1179, 100);
             this.panel9.TabIndex = 5;
             // 
             // label3
@@ -358,9 +380,9 @@
             this.panel10.Controls.Add(this.txtApellido);
             this.panel10.Controls.Add(this.txtNombre);
             this.panel10.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel10.Location = new System.Drawing.Point(226, 195);
+            this.panel10.Location = new System.Drawing.Point(66, 195);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(1019, 199);
+            this.panel10.Size = new System.Drawing.Size(1179, 199);
             this.panel10.TabIndex = 6;
             this.panel10.Paint += new System.Windows.Forms.PaintEventHandler(this.panel10_Paint);
             // 
@@ -383,6 +405,16 @@
             this.label2.Size = new System.Drawing.Size(65, 20);
             this.label2.TabIndex = 33;
             this.label2.Text = "Nombre";
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(868, 54);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(139, 106);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 32;
+            this.pictureBox4.TabStop = false;
             // 
             // txtApellido
             // 
@@ -408,7 +440,7 @@
             this.panel13.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel13.Location = new System.Drawing.Point(0, 334);
             this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(1019, 100);
+            this.panel13.Size = new System.Drawing.Size(1179, 100);
             this.panel13.TabIndex = 7;
             // 
             // btnActualizar
@@ -420,6 +452,26 @@
             this.btnActualizar.Text = "Actualizar";
             this.btnActualizar.UseVisualStyleBackColor = true;
             this.btnActualizar.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(268, 6);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(187, 82);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 32;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(24, 6);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(187, 82);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox3.TabIndex = 31;
+            this.pictureBox3.TabStop = false;
             // 
             // btnCancelar
             // 
@@ -445,9 +497,9 @@
             this.panel15.Controls.Add(this.label6);
             this.panel15.Controls.Add(this.panel13);
             this.panel15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel15.Location = new System.Drawing.Point(226, 195);
+            this.panel15.Location = new System.Drawing.Point(66, 195);
             this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(1019, 434);
+            this.panel15.Size = new System.Drawing.Size(1179, 434);
             this.panel15.TabIndex = 9;
             this.panel15.Paint += new System.Windows.Forms.PaintEventHandler(this.panel15_Paint);
             // 
@@ -468,58 +520,6 @@
             this.label6.TabIndex = 4;
             this.label6.Text = "Fecha de Nacimiento";
             // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(868, 54);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(139, 106);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 32;
-            this.pictureBox4.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(268, 6);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(187, 82);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 32;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(24, 6);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(187, 82);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 31;
-            this.pictureBox3.TabStop = false;
-            // 
-            // ptbMenuBoton
-            // 
-            this.ptbMenuBoton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ptbMenuBoton.Image = global::vet_manager.Properties.Resources.ce9381cf_c557_4371_9e67_64f3e0171d83;
-            this.ptbMenuBoton.Location = new System.Drawing.Point(6, 28);
-            this.ptbMenuBoton.Name = "ptbMenuBoton";
-            this.ptbMenuBoton.Size = new System.Drawing.Size(52, 43);
-            this.ptbMenuBoton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.ptbMenuBoton.TabIndex = 0;
-            this.ptbMenuBoton.TabStop = false;
-            this.ptbMenuBoton.Click += new System.EventHandler(this.ptbMenuBoton_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(92, 78);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 5;
-            this.pictureBox1.TabStop = false;
-            // 
             // frmAgregarUsuario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -536,9 +536,11 @@
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.panel4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel6.ResumeLayout(false);
             this.panel8.ResumeLayout(false);
             this.panel8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.ptbMenuBoton)).EndInit();
             this.sidebar.ResumeLayout(false);
             this.pnlContainer.ResumeLayout(false);
             this.panel12.ResumeLayout(false);
@@ -548,14 +550,12 @@
             this.panel9.PerformLayout();
             this.panel10.ResumeLayout(false);
             this.panel10.PerformLayout();
-            this.panel13.ResumeLayout(false);
-            this.panel15.ResumeLayout(false);
-            this.panel15.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            this.panel13.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ptbMenuBoton)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel15.ResumeLayout(false);
+            this.panel15.PerformLayout();
             this.ResumeLayout(false);
 
         }
