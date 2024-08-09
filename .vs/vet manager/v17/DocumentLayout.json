@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\user\\documents\\github\\expo\\vet manager\\vista\\agregar clientemascota\\frmclienteregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\agregar clientemascota\\frmclienteregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\agregarusuario\\frmagregarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\agregarusuario\\frmagregarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\citas\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\citas\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\agregarusuario\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\agregarusuario\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\agregarusuario\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\agregarusuario\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\user\\documents\\github\\expo\\vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\agregarusuario\\frmagregarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\agregarusuario\\frmagregarusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\agregarusuario\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\agregarusuario\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\agregar clientemascota\\frmclienteregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\agregar clientemascota\\frmclienteregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|c:\\users\\user\\documents\\github\\expo\\vet manager\\vista\\citas\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\citas\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\vista\\citas\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\vista\\citas\\frmcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D31AB6-C94C-459B-8216-BCE1C9FB40EB}|vet manager\\vet manager.csproj|solutionrelative:vet manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "FrmCitas.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\Citas\\FrmCitas.cs",
+              "RelativeDocumentMoniker": "vet manager\\Vista\\Citas\\FrmCitas.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\Citas\\FrmCitas.cs",
+              "RelativeToolTip": "vet manager\\Vista\\Citas\\FrmCitas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:08:03.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FrmClienteRegister.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\Agregar ClienteMascota\\FrmClienteRegister.cs",
               "RelativeDocumentMoniker": "vet manager\\Vista\\Agregar ClienteMascota\\FrmClienteRegister.cs",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FrmCitas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\Citas\\FrmCitas.cs",
               "RelativeDocumentMoniker": "vet manager\\Vista\\Citas\\FrmCitas.cs",
@@ -74,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "frmAgregarUsuario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.cs",
               "RelativeDocumentMoniker": "vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmAgregarUsuario.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.Designer.cs",
               "RelativeDocumentMoniker": "vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.Designer.cs",
@@ -99,20 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "frmAgregarUsuario.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.cs",
               "RelativeDocumentMoniker": "vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.cs",
               "RelativeToolTip": "vet manager\\Vista\\AgregarUsuario\\frmAgregarUsuario.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA0wCQAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T23:23:11.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "FrmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Vista\\Login\\FrmLogin.cs",
               "RelativeDocumentMoniker": "vet manager\\Vista\\Login\\FrmLogin.cs",
@@ -124,16 +141,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Program.cs",
               "RelativeDocumentMoniker": "vet manager\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Program.cs*",
-              "RelativeToolTip": "vet manager\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\EXPO\\vet manager\\Program.cs",
+              "RelativeToolTip": "vet manager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T21:02:24.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T21:02:24.581Z"
             }
           ]
         }
