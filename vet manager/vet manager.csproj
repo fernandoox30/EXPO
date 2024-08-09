@@ -59,10 +59,24 @@
     <Compile Include="Modelo\DTO\DTOLogin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+    <Compile Include="Vista\Agregar ClienteMascota\FrmClienteRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Agregar ClienteMascota\FrmClienteRegister.Designer.cs">
+      <DependentUpon>FrmClienteRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\AgregarUsuario\frmAgregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\AgregarUsuario\frmAgregarUsuario.Designer.cs">
+      <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+=======
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+>>>>>>> 9d21f75b8b20a30a99b2948d83c83967c4ec8116
     </Compile>
     <Compile Include="Vista\Citas\FrmCitas.cs">
       <SubType>Form</SubType>
@@ -91,7 +105,21 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
+<<<<<<< HEAD
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vista\Agregar ClienteMascota\FrmClienteRegister.resx">
+      <DependentUpon>FrmClienteRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\AgregarUsuario\frmAgregarUsuario.resx">
+      <DependentUpon>frmAgregarUsuario.cs</DependentUpon>
+=======
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+>>>>>>> 9d21f75b8b20a30a99b2948d83c83967c4ec8116
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\Citas\FrmCitas.resx">
       <DependentUpon>FrmCitas.cs</DependentUpon>
