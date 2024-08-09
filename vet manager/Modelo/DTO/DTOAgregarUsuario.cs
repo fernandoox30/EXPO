@@ -14,6 +14,8 @@ namespace vet_manager.Modelo.DTO
         private DateTime FechaNacimient;
         private string Usuario;
         private string Contraseña;
+        private string IdRole;
+        private string CorreoEmpleado;
 
 
         public int IdEmpleados1 { get => IdEmpleados; set => IdEmpleados = value; }
@@ -22,5 +24,8 @@ namespace vet_manager.Modelo.DTO
         public DateTime FechaNacimient1 { get => FechaNacimient; set => FechaNacimient = value; }
         public string Usuario1 { get => Usuario; set => Usuario = value; }
         public string Contraseña1 { get => Contraseña; set => Contraseña = value; }
+
+        public string CorreoEmpleado1 { get => CorreoEmpleado; set => CorreoEmpleado = value; }
+        public string IdRole1 { get => IdRole; set => IdRole = value; }
     }
 }

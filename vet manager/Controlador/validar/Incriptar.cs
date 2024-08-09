@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace vet_manager.Controlador.validar
 {
-    internal class Incriptar
+    internal class Incriptar //Cambiar Incriptar por Encriptar
     {
 
 
