@@ -1,0 +1,29 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/vet manager/FileContentIndex/25380a7b-c234-4b2f-ba67-f1ed4db1b7a3.vsidx
+/.vs/vet manager/FileContentIndex/25380a7b-c234-4b2f-ba67-f1ed4db1b7a3.vsidx
+/.vs/vet manager/FileContentIndex/ca63bf7a-11b6-4385-bd00-292d1feb7991.vsidx
+/.vs/vet manager/FileContentIndex/081360ae-2ecd-4e2f-b444-6ad86c29118d.vsidx
+*.vsidx
+/.vs/vet manager/FileContentIndex/60021daf-9a4a-4ddf-81f7-82c56d9fa86c.vsidx
+/.vs/vet manager/FileContentIndex/3085e557-ba03-4ad5-8063-ace1fa7794fa.vsidx
+/.vs/vet manager/FileContentIndex/5960f2fd-b51e-495c-8516-0565cd8140e8.vsidx
+/.vs/vet manager/FileContentIndex/71cc8443-a2bc-4bb7-8140-cde676257f7c.vsidx
+/.vs/vet manager/FileContentIndex/9f208b37-b9c5-4b84-b215-cec48b2cada4.vsidx
+/.vs/vet manager/FileContentIndex/4d2de13c-936c-493b-87e3-3d6482b4fc00.vsidx
+/.vs/vet manager/FileContentIndex/b11eb6c9-f6a1-4976-b781-aaa89f5cbe89.vsidx
+/.vs/vet manager/FileContentIndex/25380a7b-c234-4b2f-ba67-f1ed4db1b7a3.vsidx
+/.vs/vet manager/FileContentIndex/595b21ae-ac74-4712-8ecd-b3d7a71dc9bb.vsidx
+/.vs/vet manager/FileContentIndex/82dcf19a-56ea-4d47-b99d-0d23db24ee2d.vsidx
+/.vs/vet manager/FileContentIndex/b9abc670-49bc-4f4c-9614-bc4ba113ab0b.vsidx
+/.vs/vet manager/FileContentIndex/cc17c430-60ad-41c7-b672-491c2cbca645.vsidx
+/.vs/vet manager/FileContentIndex/daf837a1-ea0e-4b5a-8ad8-9513a45901d4.vsidx
+/.vs/EXPO/v17/.wsuo
+/.vs/EXPO/v17/DocumentLayout.json
+/.vs/vet manager/v17/.suo
+/.vs/vet manager/v17/DocumentLayout.json
+*.sqlite
+/.vs/VSWorkspaceState.json
+/UpgradeLog.htm
