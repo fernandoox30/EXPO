@@ -30,8 +30,8 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmRegistrosEmpleado));
-            this.UsuarioTime = new System.Windows.Forms.Timer(this.components);
-            this.sidebarTime = new System.Windows.Forms.Timer(this.components);
+            this.UsuarioTime2 = new System.Windows.Forms.Timer(this.components);
+            this.sidebarTime2 = new System.Windows.Forms.Timer(this.components);
             this.panel2 = new System.Windows.Forms.Panel();
             this.btnActualizarEmpleados = new System.Windows.Forms.Button();
             this.btnAgregarEmpleado = new System.Windows.Forms.Button();
@@ -70,13 +70,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvRegistrosEmpleados)).BeginInit();
             this.SuspendLayout();
             // 
-            // UsuarioTime
+            // UsuarioTime2
             // 
-            this.UsuarioTime.Interval = 10;
+            this.UsuarioTime2.Interval = 10;
             // 
-            // sidebarTime
+            // sidebarTime2
             // 
-            this.sidebarTime.Interval = 10;
+            this.sidebarTime2.Interval = 10;
             // 
             // panel2
             // 
@@ -187,6 +187,7 @@
             this.sidebar.Name = "sidebar";
             this.sidebar.Size = new System.Drawing.Size(226, 534);
             this.sidebar.TabIndex = 7;
+            this.sidebar.Paint += new System.Windows.Forms.PaintEventHandler(this.sidebar_Paint);
             // 
             // panel8
             // 
@@ -357,8 +358,8 @@
         }
 
         #endregion
-        private System.Windows.Forms.Timer UsuarioTime;
-        private System.Windows.Forms.Timer sidebarTime;
+        private System.Windows.Forms.Timer UsuarioTime2;
+        private System.Windows.Forms.Timer sidebarTime2;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panel7;
         private System.Windows.Forms.Panel panel5;

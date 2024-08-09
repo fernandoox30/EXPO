@@ -17,5 +17,10 @@ namespace vet_manager.Vista.IngresarEmpleado
             InitializeComponent();
 
         }
+
+        private void sidebar_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
